@@ -5,6 +5,7 @@
 
 # Story
 ## Part 1
+# Location: Guthugel
 The carriage rattles over yet another bump in the dirt road, sending a jolt of pain through your already aching back. You could swear you’ve been on the road for years, though in reality, it’s been closer to a month. The roads, forests, and towns you’ve passed through, ferrying passengers on their journeys, have all started to blur together and you’re beginning to consider packing it all in and setting up house in whatever the next town is.
 
 “Roads were better in my day.” Mutters a voice from one of the carriage seats. “Not so many of ‘em, of course. This ‘ere was all fields.” Looking around you, you’d argue this ‘ere was still all fields.
@@ -23,6 +24,7 @@ Just as you’re thinking of heading off, you’re drawn to a spectacle: an alch
 
 The market starts to wind down and you and your companions are back on the road. The evening draws in and your destination draws near. The birdsong and the rocking of the cart lulls you into daydreams of warm beds and full stomachs.
 
+# Location: 1 mile south of Mittelweg
 You are startled from your reverie by a piercing scream from off in the woods. As the carriage comes to a stop, several more screams tear through the night. Fearing that someone is in danger, you leave the old man and the pig to guard the carriage while you head off to investigate.
 
 The darkness in the forest is far deeper than it was on the road and you cautiously pick your way towards the sounds. After a few tense minutes, you come upon a clearing where a horrifying scene is taking place. A young couple and their infant child lie on the ground being viciously attacked by 3 beastmen. Seeing that at least one of them appears to still be alive, the party goes to their aid.
@@ -35,6 +37,7 @@ Despite its wounds, the Gor strikes a massive blow to Karl’s head, before bein
 
 The party reviews the carnage before them. The man and child are torn to pieces and, by now, the woman has also died. Investigating more closely, Mandred prizes a delicate comb from the Gor’s fist which you decide to take with you. Finally, Mandred cuts off the Gor’s head and Karl (with a little help) takes its axe as proof of your encounter. Wounded and exhausted, you make your way back to the carriage where you discover your brave guard, and his pig, comfortably asleep.
 
+# Location: Mittelweg
 After a short and nervous drive, you arrive in Mittelweg. The hour is late and the village is mostly asleep. As you part ways with Cooper, he advises that you’ll find places to sleep in the church or the inn. Needing somewhere to stable the horses, you start with the inn but find the staff there surly and unhelpful and the fees for the night exorbitant. They suggest that if you don’t like what they’re offering you might want to check out the house of Vixea, the local whore.
 
 You try the church but find no one home and so, irritated and out of options, you return to the inn. Mandred and Meik settle for a cold wash, a meagre meal, and the one available bed while Karl chooses to visit Vixea. There he finds a warm bath and warm food and while he also has to share a bed, he doesn’t mind as much.
