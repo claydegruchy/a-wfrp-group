@@ -15,7 +15,7 @@ Vixia has been asking Karl many questions on how to be such a good liar and Karl
 # Location: Middenheim
 
 
-you awaken to muttering in your shared room, the smell of the street wafting in though the window that kept you on the edge of cold most of the night. while there is a obvious unpleasentness to it, mostly animal dung and sweat, you can also smell food cooking, dust, woodsmoke from burners, the moister in the air and feel the buzz of the city waking.
+you awaken to muttering in your shared room, a breeze bringing smell of the street wafting in though the window, the same breeze that kept you on the edge of cold most of the night. while there is a obvious unpleasentness to it, mostly animal dung and sweat, you can also smell food cooking, dust, woodsmoke from burners, the moister in the air and feel the buzz of the city waking.
 
 "one of yous has been going though my things!" the sound of yelling startles your eyes open. a townsman in your small, shared room is shouting at no one in particular. "me coin is gone and theres scratches on me locks. who was it?!" he issues a challange to the others in the room, who have been rousing a little longer than you all, with a few up and dressed for the day already, despite the rain.
 
