@@ -69,8 +69,7 @@ after a debrief with thammid, it seems that a bounty has been put most of your h
 # Location: Northern Middenheim 
 _Recap_
 
-With Karl is looking fine in his fancy new outfit with shoes to match (care of Vixea), Mandred has secured a fine jacket and a good reason to be in the area, and Meik has acquired a "cuppe cake" as a gift for the Lady Annibel Konya, the current occupent of the Townhouse von Kaelen. You can nearly taste the gold of that gun, but it might not the the only gun you taste, as wanted posters appear around town bearing familiar faces.
-
+_With Karl is looking fine in his fancy new outfit with shoes to match (care of Vixea), Mandred has secured a fine jacket and a good reason to be in the area, and Meik has acquired a "cuppe cake" as a gift for the Lady Annibel Konya, the current occupent of the Townhouse von Kaelen. You can nearly taste the gold of that gun, but it might not the the only gun you taste, as wanted posters appear around town bearing familiar faces._
 
 You awaken as Thammid shakes each of you, you’ve been sleeping in his small private room on the floor to avoid getting recognised. It’s still dark, but you can feel the anticipation in your stomach as soon as you wake. Today is the day. You are awake and alert as soon as you are shaken, the dreams disappearing like bats before dawn.
 You’ve been talking about it half the night and the day before. 
