@@ -148,30 +148,41 @@ Everyone meets at the coaching house and make their way to the The Split Veil wh
 
 
 # Rewards
-# Exp:
 
-| Type                                      | Player  | Moment                                                                     | Reward |
-| ----------------------------------------- | ------- | -------------------------------------------------------------------------- | ------ |
-| Session complete                          | Mandred | Finished 3 sessions                                                        | 300    |
-| Innovation And Teamwork                   | Mandred | Intimidate The Guard                                                       | 10     |
-| Acting In Character (For Better Or Worse) | Mandred | Guild Initation                                                            | 8      |
-| Acting In Character (For Better Or Worse) | Mandred | Didn't Take Shit From A Dodgy Innkeeper                                    | 8      |
-| Developing The Story                      | Mandred | Found The Townhouse                                                        | 8      |
-| Innovation And Teamwork                   | Mandred | Watched Everyone Else Play A Session                                       | 6      |
-|                                           |         | **Total:**                                                                     | **340**    |
-|                                           |         |                                                                            |        |
-| Session complete                          | Meik    | Finished 3 sessions                                                        | 300    |
-| Innovation And Teamwork                   | Meik    | Won A Boxing Match                                                         | 6      |
-| Developing The Story                      | Meik    | Used Old Connections To Solve New Problems                                 | 8      |
-| Acting In Character (For Better Or Worse) | Meik    | Taking Care Of Friends (Seeing To Mandreds Wounds, Getting Karl An Outfit) | 12     |
-| Developing The Story                      | Meik    | What The Hell Is A Cuppe Cake?                                             | 10     |
-| Acting In Character (For Better Or Worse) | Meik    | Made Friends With Some Sailors                                             | 4      |
-|                                           |         | **Total:**                                                                     | **340**    |
-|                                           |         |                                                                            |        |
-| Session complete                          | Karl    | Finished 3 sessions                                                        | 300    |
-| Acting In Character (For Better Or Worse) | Karl    | Masterful Manipulation (Anibel, Innkeepers)                                | 10     |
-| Innovation And Teamwork                   | Karl    | Well Dressed (When Appearances Matter)                                     | 6      |
-| Innovation And Teamwork                   | Karl    | Put Up With A Shit Boss (Lowest King)                                      | 4      |
-| Developing The Story                      | Karl    | Used Vixia's Bf To Write A Love Letter                                     | 10     |
-| Acting In Character (For Better Or Worse) | Karl    | Unsuccessful But Well Played Argument With Mutants                         | 10     |
-|                                           |         | **Total:**                                                                     | **340**    |
+
+## Mandred
+| Type                                      | Moment                                  | Reward |
+| ----------------------------------------- | --------------------------------------- | ------ |
+| Innovation And Teamwork                   | Watched Everyone Else Play A Session    | 6      |
+| Acting In Character (For Better Or Worse) | Guild Initation                         | 8      |
+| Acting In Character (For Better Or Worse) | Didn't Take Shit From A Dodgy Innkeeper | 8      |
+| Developing The Story                      | Found The Townhouse                     | 8      |
+| Innovation And Teamwork                   | Intimidate The Guard                    | 10     |
+| Adventure complete                        | Finished an adventure                   | 150    |
+| Session complete                          | Finished 3 sessions                     | 300    |
+|                                           | Total:                                  | 490    |
+
+
+## Meik
+| Type                                      | Moment                                                                     | Reward |
+| ----------------------------------------- | -------------------------------------------------------------------------- | ------ |
+| Acting In Character (For Better Or Worse) | Made Friends With Some Sailors                                             | 4      |
+| Innovation And Teamwork                   | Won A Boxing Match                                                         | 6      |
+| Developing The Story                      | Used Old Connections To Solve New Problems                                 | 8      |
+| Developing The Story                      | What The Hell Is A Cuppe Cake?                                             | 10     |
+| Acting In Character (For Better Or Worse) | Taking Care Of Friends (Seeing To Mandreds Wounds, Getting Karl An Outfit) | 12     |
+| Adventure complete                        | Finished an adventure                                                      | 150    |
+| Session complete                          | Finished 3 sessions                                                        | 300    |
+|                                           | Total:                                                                     | 490    |
+
+## Karl
+| Type                                      | Moment                                             | Reward |
+| ----------------------------------------- | -------------------------------------------------- | ------ |
+| Innovation And Teamwork                   | Put Up With A Shit Boss (Lowest King)              | 4      |
+| Innovation And Teamwork                   | Well Dressed (And Used It Well)		             | 6      |
+| Acting In Character (For Better Or Worse) | Masterful Manipulation (Anibel, Innkeepers)        | 10     |
+| Developing The Story                      | Used Vixia's Bf To Write A Love Letter             | 10     |
+| Acting In Character (For Better Or Worse) | Unsuccessful But Well Played Argument With Mutants | 10     |
+| Adventure complete                        | Finished an adventure                              | 150    |
+| Session complete                          | Finished 3 sessions                                | 300    |
+|                                           | Total:                                             | 490    |
