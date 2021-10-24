@@ -62,3 +62,69 @@ karl makes it to the anchors place, thought he reception in breif, he gets his n
 meik finds his friend isnt working but is able to get a very fancy brettonian "cuppe cake", on walk to the lift company he spies a familiar face: wanted posters.
 
 after a debrief with thammid, it seems that a bounty has been put most of your heads (karls twice). this might make the heist a little harder.
+
+
+
+## Part 3
+# Location: Northern Middenheim 
+_Recap_
+
+With Karl is looking fine in his fancy new outfit with shoes to match (care of Vixea), Mandred has secured a fine jacket and a good reason to be in the area, and Meik has acquired a "cuppe cake" as a gift for the Lady Annibel Konya, the current occupent of the Townhouse von Kaelen. You can nearly taste the gold of that gun, but it might not the the only gun you taste, as wanted posters appear around town bearing familiar faces.
+
+
+You awaken as Thammid shakes each of you, you’ve been sleeping in his small private room on the floor to avoid getting recognised. It’s still dark, but you can feel the anticipation in your stomach as soon as you wake. Today is the day. You are awake and alert as soon as you are shaken, the dreams disappearing like bats before dawn.
+You’ve been talking about it half the night and the day before. 
+
+It is decided that this won't be some mere recon trip, you're getting the gun today. A plan is hatched slowly then revised multiple times as you take the cart to the house.
+- Thammid will be a toungless dwarven engineer, "sent to fix the pipes" or any other thing that can be found broken. 
+- Meik is just looking for a job.
+- Karl is a delivery man, sent to deliver a "cuppe cake" and a letter from a secret admirer of Abibel.
+- Mandred is dropping of the delivery man, and will find that the engineer "accientally" left something in his cart.
+
+As you arrive, there is yelling. It seems Abibel and her new woo have had a falling out. They are having a firey arguemnt. Alex storms out with Anibel screaming after him. Karl seizes this oppertunity to present, loudly, the love letter. Anibel eats it up and invites him inside.
+In the meantime, Meik gets a chance at working and Thammid is taken to the basement to "fix something". Seems the house has extra guards who are not well liked.
+
+Anibel fawns over the letter asking many questions of Karl and attempting to asertain the name of the owner, while they both drink. At some point Karl outs himself as lowborn, changing Anibels take on him for the worse. Meanwhile Mandred takes the cart to a stable, and Meik attempts to make friends with the guards (unsuccessfully). 
+
+Mandred returns to return the "forgotten" bit of equipment and is shown inside and to the basement to return the gear (given its weight). There he sees the "mute engineer", Miek and the guard, Viktor, stacking boxes. A breif arguemnt breaks out them the "mute" speaks clear reikspiel before the guard, who immidately notices. Before things can spiral out of control, Mandred uses the small space and his intimidating presense to help the guard understand that hes just here on business and won't have his time wasted. 
+
+The guard is shaken, and Meik seizes the chance to befriend him. They manage to conspire to take food from the kitchen and a deal is made to swap sandwiches for smokes in the back yard, given that the Matron does not like the guard. Mandred stops for a snack and meets Tancred (former Hammerer and apparent 'man of the house' for the time being), they become familular as it emerges that Tancred served with Adolfus, a Hammerer and nobel.
+
+Breakfast is also served for the gentry of the house, and Karl is (somewhat reluctantly) invited to join by Anibel. Smalltalk is made and she begins to warm again when hearing about this "rich bretonian man" (who is dreamy in every way, has never worked a day in his life, is a lover; not a fighter, and so on) who claims her as the object of his affection. Tancred also joins. Karl spies the much saught gun, sitting on the mantle. 
+
+Once breakfast is done, Karl proposes that Anibel write a letter of response to her mysterious lover. While she is out of the room hunting a quill. Jumping at the chance, Karl seeks to quickly pocket the gun but fails to spot a thin wire, connecting it to the fireplace. An ear shattering _*GONG*_ resounds thought the house as a piece of metal falls down the chimney. At once, everyone in the house is alerted. Karl replaces the gun immidately. 
+
+Tancred and the lesser guard, Ali, both run for the stairs with Tancred breifly stopping to arm Mandred. Meanwhile, Meik and Viktor being sniffing around the back yard, and begin trying to postulate theories on what is happening inside. Meanwhile, Karl quicky runs to Anibels room, she is immidately suspicous. She accuses him of being a criminal and, knowing that this may be his head, Karl pulls no stops with his charisma. He falls to his knees, professing his innocence, how his master would be furious if Karl did something to compimise your feelings to him. It is a success, and the somewhat emotional Anibel quickly 'realises' that it must be soemthing to do with the Dwarf engineer, screwing something up.
+
+The Mandred, Tancred and Ali all run upstairs and confront Anibel and Karl. Karl is accused and while intimidated by the presence of Tancred, is equally frightened by the words of Mandred who apparently is seeking to support his new friend over an old one. Anibel intervenes however, explaining what has happened and quickly comes to tears messily. She rants and raves about how people don't like her and how Alex left and it becomes very emotional. Ali retreats before the tears and Mandred follows, as does Karl. Tancred stays to comfort her then puts her to bed.
+
+Outdoors, Meik and Viktor have worked themselves into pandemonium over the possilbity of a theif. All sorts of outlandish claims are made, that a shadow was seen, that it had a club foot, and was a mutant, and that there will be a reward! And the the graf should know personally! Medals will be given! This culminates in Meik giving Viktor a lift over the wall so he can 'chase that bastard down and tell the graf' while Meik 'gathers reenforcments'. Once Viktor has run off, Meik comes to the realisation that there are no reenforcments and goes back to stacking boxes.
+
+Karl goes to get the "mute engineer" demanding that he fix what hes broken in the kitchen and is suprised to learn that Thammid has been constructing a bomb out of two artilery shells, and additionally demands (for real) that it is removed. Thammid heads upstairs, grabs the gun and goes directly back to the basement. 
+
+It is decided that Mandred should stay, he knows somewhere here and they know his name. Plus he has only 'helped' and has no need to run away. The rest however go to the basement. Thammid meets with Miek who is moving boxes down, then Karl comes down to make sure everything is in order and the trio disappear into the sewers. Startling a very strange hunched figure who seemed to be waiting outside the door when they opened it.
+
+Mandred meets with Tancred and the two decide to have drink to cool things off and chat. 
+
+
+## Part 4
+# Location: Under Middenheim
+Sneaking though the darkness, the trio of Thammid, Miek, and Karl make their way slowly. Thammids map is incomplete and messy, being difficult to orintate to the surroundings. The group wander though the grimey muck when they spot light, and hear people talking about food. Strange voices and gargles. Mutants. 
+
+The trio sneak past but, stepping in a pile of muck and shit, Meik encounters his fear manifest: This place is disgusting. Meik begins to lose it and Thammid, already rattled, tries to shut him up. The commotion attracts unwanted attention, from the darkness, 4 mutant step. 
+
+One is very tall and thin, one with tenticles, one with extremely long arms and, the leader, who looks to be fused with a beehive. Karl tries a diplimating solution and Meik assists, handing over his large pie and their rations to the monsters. The leader does not appear to be that impressed and even Karls shining charisma does not appear to be enough to convince the sewer dwellers that they should go by in peace. It is a knives edge situation as the tension hangs in the air. Beehive seems to want to fight, while the others are less certain.
+
+The situation is then decided when Thammids crossbow pins Long Arms to the wall. A fight brakes out. Meik drinks his strength potion while Karl narrowly dodges a swipe from a the twisted hangs of Tall and Thin. Meik rushes to his friends defence, snapping the stick man in two with a mighty punch. The leader dispenses handreds of insects from its hives, surriounding Thammid and stopping him from shooting again, he dives into the sewer muck to escape it. 
+
+Tentacles charges Karl, his swinging bulk deflected by Karls dagger but knocking the dagger into the water. Meiks strength potion comes into full effect, ripping his shirt and snapping his belt. Channeling his fear disease into fury, he dives on Tentacles with all his strength, driving his knight directly though his head and into the concrete below, the mutants head is split in two, chunks of tentacle meat flying in all directions.
+
+Beehive is now the only mutant standing, and he begins professing his innocence. Karl blathers at him, using the mutants fear to hold him hostage in a barrage of words. Thammid then emerges from the muck and puts a bolt though the mutants eye.
+
+Meanwhile, Mandred and Tancred discuss many things. Mostly concerning their mutual friend but the topic wanders to Mandreds background, their mutal distrust for elves. The drinks are quite strong, however, and overestimating his own fortitude, mandred has a little too much Bretonnian fortified wine. The memories become hazy at this point, and then go black. 
+
+With the mutants sorted out, the trio get directions from the last of the mutants, who clings to the last of the rations and helps them orintate slightly. With the addition of Karls knowledge of true north, the three find their way to a sewer exit, then quickly wash themselves in a well. 
+
+Mandred awakens at the cart company, vomiting his guts up. He is tended by his boss, Cartman. They discuss his wanted status and it is Cartman's advice to simply leave town, as Mandred would anyway. Too many criminals for anyone to be wanted for long around here. He gives a delviery assignment for Marienburg, and gives Mandred a discount on the cart bond.
+
+Everyone meets at the coaching house and make their way to the The Split Veil where Meik (being the only person without a bounty) collects everyones goods. With the evening falling, the foursome then make haste from the city they've called home for the last week and ride west, gun in tow, leaving their crimes behind them.
