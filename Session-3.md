@@ -10,6 +10,24 @@ Heaving and straining, the broken cart is eventually moved from the road at the 
 
 Vixia has been asking Karl many questions on how to be such a good liar and Karl has been a great teacher, with Thammid almost beliving that Vixia actually enjoys his stories.
 
+- Everyone
+	- staying at The Split Veil inn a shared room
+		- thammid has his own roomm
+	- vixea has left to go stay elsewhere
+- Mandred Woodlan
+	- met Lina, the servant there
+	- did the initiation with the coachmans guild, drank horse piss and got guild papers, threw up a lot
+	- found the von kaelan house
+- Karl Meyer
+	- met the Lowest King
+	- got lockpicks
+- Meik Strangmoore
+	- got a job moving boxes
+	- won a boxing match
+- Other
+	- vixea met someone
+	- thammids leg broke down
+
 
 ## Part 2
 # Location: Middenheim
@@ -127,3 +145,33 @@ With the mutants sorted out, the trio get directions from the last of the mutant
 Mandred awakens at the cart company, vomiting his guts up. He is tended by his boss, Cartman. They discuss his wanted status and it is Cartman's advice to simply leave town, as Mandred would anyway. Too many criminals for anyone to be wanted for long around here. He gives a delviery assignment for Marienburg, and gives Mandred a discount on the cart bond.
 
 Everyone meets at the coaching house and make their way to the The Split Veil where Meik (being the only person without a bounty) collects everyones goods. With the evening falling, the foursome then make haste from the city they've called home for the last week and ride west, gun in tow, leaving their crimes behind them.
+
+
+# Rewards
+# Exp:
+
+| Type                                      | Player  | Moment                                                                     | Reward |
+| ----------------------------------------- | ------- | -------------------------------------------------------------------------- | ------ |
+| Session complete                          | Mandred | Finished 3 sessions                                                        | 300    |
+| Innovation And Teamwork                   | Mandred | Intimidate The Guard                                                       | 10     |
+| Acting In Character (For Better Or Worse) | Mandred | Guild Initation                                                            | 8      |
+| Acting In Character (For Better Or Worse) | Mandred | Didn't Take Shit From A Dodgy Innkeeper                                    | 8      |
+| Developing The Story                      | Mandred | Found The Townhouse                                                        | 8      |
+| Innovation And Teamwork                   | Mandred | Watched Everyone Else Play A Session                                       | 6      |
+|                                           |         | Total:                                                                     | 340    |
+|                                           |         |                                                                            |        |
+| Session complete                          | Meik    | Finished 3 sessions                                                        | 300    |
+| Innovation And Teamwork                   | Meik    | Won A Boxing Match                                                         | 6      |
+| Developing The Story                      | Meik    | Used Old Connections To Solve New Problems                                 | 8      |
+| Acting In Character (For Better Or Worse) | Meik    | Taking Care Of Friends (Seeing To Mandreds Wounds, Getting Karl An Outfit) | 12     |
+| Developing The Story                      | Meik    | What The Hell Is A Cuppe Cake?                                             | 10     |
+| Acting In Character (For Better Or Worse) | Meik    | Made Friends With Some Sailors                                             | 4      |
+|                                           |         | Total:                                                                     | 340    |
+|                                           |         |                                                                            |        |
+| Session complete                          | Karl    | Finished 3 sessions                                                        | 300    |
+| Acting In Character (For Better Or Worse) | Karl    | Masterful Manipulation (Anibel, Innkeepers)                                | 10     |
+| Innovation And Teamwork                   | Karl    | Well Dressed (When Appearances Matter)                                     | 6      |
+| Innovation And Teamwork                   | Karl    | Put Up With A Shit Boss (Lowest King)                                      | 4      |
+| Developing The Story                      | Karl    | Used Vixia's Bf To Write A Love Letter                                     | 10     |
+| Acting In Character (For Better Or Worse) | Karl    | Unsuccessful But Well Played Argument With Mutants                         | 10     |
+|                                           |         | Total:                                                                     | 340    |
