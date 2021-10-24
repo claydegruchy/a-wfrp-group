@@ -160,7 +160,7 @@ Everyone meets at the coaching house and make their way to the The Split Veil wh
 | Innovation And Teamwork                   | Intimidate The Guard                    | 10     |
 | Adventure complete                        | Finished an adventure                   | 150    |
 | Session complete                          | Finished 3 sessions                     | 300    |
-|                                           | Total:                                  | 490    |
+|                                           | **Total:**                                  | **490**    |
 
 
 ## Meik
@@ -173,7 +173,7 @@ Everyone meets at the coaching house and make their way to the The Split Veil wh
 | Acting In Character (For Better Or Worse) | Taking Care Of Friends (Seeing To Mandreds Wounds, Getting Karl An Outfit) | 12     |
 | Adventure complete                        | Finished an adventure                                                      | 150    |
 | Session complete                          | Finished 3 sessions                                                        | 300    |
-|                                           | Total:                                                                     | 490    |
+|                                           | **Total:**                                                                     | **490**    |
 
 ## Karl
 | Type                                      | Moment                                             | Reward |
@@ -185,4 +185,4 @@ Everyone meets at the coaching house and make their way to the The Split Veil wh
 | Acting In Character (For Better Or Worse) | Unsuccessful But Well Played Argument With Mutants | 10     |
 | Adventure complete                        | Finished an adventure                              | 150    |
 | Session complete                          | Finished 3 sessions                                | 300    |
-|                                           | Total:                                             | 490    |
+|                                           | **Total:**                                             | **490**    |
